@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "GCP Dark Theme",
+  "description": "Toggle with ease between dark and light theme for the Google Cloud Console.",
+  "version": "0.1",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "https://console.cloud.google.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://console.cloud.google.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
