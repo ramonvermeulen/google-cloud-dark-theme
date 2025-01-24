@@ -4,7 +4,6 @@
   "description": "Toggle with ease between dark and light theme for the Google Cloud Console.",
   "version": "0.1",
   "permissions": ["storage"],
-  "host_permissions": ["https://console.cloud.google.com/*"],
   "content_scripts": [
     {
       "matches": ["https://console.cloud.google.com/*"],
