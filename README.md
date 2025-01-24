@@ -1,6 +1,6 @@
 <div align="center">
     <img alt="logo" data-is-relative="true" src="./assets/img/icon500.png" width="200" height="200"/>
-    <h1>google-chrome-dark-theme</h1>
+    <h1>google-cloud-dark-theme</h1>
     <a href="https://github.com/ramonvermeulen/google-cloud-dark-theme"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ramonvermeulen/google-cloud-dark-theme"></a>
 </div>
 
@@ -13,7 +13,7 @@
 **Unofficial Google Cloud Platform (GCP) Chrome Extension for Dark Mode**
 
 The **Google Cloud Dark Theme** Chrome extension brings dark mode to the
-Google Cloud Console. While an official dark theme has 
+Google Cloud Console. While an official dark theme has
 [long been anticipated](https://issuetracker.google.com/issues/122323757),
 it is yet to be introduced. This extension leverages existing CSS classes and
 makes minor adjustments to HTML attributes to enable a functional dark theme
