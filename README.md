@@ -16,7 +16,8 @@ The **Google Cloud Dark Theme** Chrome extension brings dark mode to the
 Google Cloud Console. While an official dark theme has long been anticipated,
 it is yet to be introduced. This extension leverages existing CSS classes and
 makes minor adjustments to HTML attributes to enable a functional dark theme
-for the GCP Console.
+for the GCP Console. The goal is to support Dark Mode in GCP with this extension
+until the official release of Dark Mode for GCP.
 
 Although this extension doesn't provide complete dark theme support (e.g.,
 some assets like images remain unchanged), it covers approximately 95% of
@@ -32,3 +33,7 @@ the console, delivering a visually pleasing dark mode experience for most users.
 
 Contributions are welcome! If you'd like to enhance compatibility, fix bugs,
 or suggest improvements, feel free to submit a pull request or raise an issue.
+
+> **_NOTE:_** This extension's functionality depends on the current
+> implementation of CSS classes in the Google Cloud Console. If the GCP team
+> updates or changes these classes, the extension may no longer work as intended.
