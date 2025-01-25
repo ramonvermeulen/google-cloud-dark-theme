@@ -1,6 +1,7 @@
 <div align="center">
     <img alt="logo" data-is-relative="true" src="./assets/img/icon500.png" width="200" height="200"/>
     <h1>google-cloud-dark-theme</h1>
+    <a href="https://chromewebstore.google.com/detail/gcp-dark-theme/lchpkgndkkbbkfenacpjfcoehapodjfo"><img alt="Chrome Web Store Version" src="https://img.shields.io/chrome-web-store/v/lchpkgndkkbbkfenacpjfcoehapodjfo"></a>
     <a href="https://github.com/ramonvermeulen/google-cloud-dark-theme"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ramonvermeulen/google-cloud-dark-theme"></a>
 </div>
 
