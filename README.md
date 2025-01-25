@@ -38,3 +38,6 @@ or suggest improvements, feel free to submit a pull request or raise an issue.
 > **_NOTE:_** This extension's functionality depends on the current
 > implementation of CSS classes in the Google Cloud Console. If the GCP team
 > updates or changes these classes, the extension may no longer work as intended.
+
+The google-cloud-dark-theme is not affiliated, associated, authorized, endorsed by,
+or in any way officially connected with Google, Google Cloud or any of it's subsidiaries.
