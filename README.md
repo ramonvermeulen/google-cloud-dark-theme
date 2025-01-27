@@ -1,6 +1,7 @@
 <div align="center">
     <img alt="logo" data-is-relative="true" src="./assets/img/icon500.png" width="200" height="200"/>
     <h1>google-cloud-dark-theme</h1>
+    <a href="https://chromewebstore.google.com/detail/gcp-dark-theme/lchpkgndkkbbkfenacpjfcoehapodjfo"><img alt="Chrome Web Store Version" src="https://img.shields.io/chrome-web-store/v/lchpkgndkkbbkfenacpjfcoehapodjfo"></a>
     <a href="https://github.com/ramonvermeulen/google-cloud-dark-theme"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ramonvermeulen/google-cloud-dark-theme"></a>
 </div>
 
@@ -38,3 +39,6 @@ or suggest improvements, feel free to submit a pull request or raise an issue.
 > **_NOTE:_** This extension's functionality depends on the current
 > implementation of CSS classes in the Google Cloud Console. If the GCP team
 > updates or changes these classes, the extension may no longer work as intended.
+
+The google-cloud-dark-theme is not affiliated, associated, authorized, endorsed by,
+or in any way officially connected with Google, Google Cloud or any of it's subsidiaries.
