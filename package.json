@@ -1,0 +1,31 @@
+{
+  "name": "google-cloud-dark-theme",
+  "version": "1.0.0",
+  "description": "Toggle with ease between dark and light theme for the Google Cloud Console.",
+  "homepage": "https://github.com/ramonvermeulen/google-cloud-dark-theme#readme",
+  "bugs": {
+    "url": "https://github.com/ramonvermeulen/google-cloud-dark-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramonvermeulen/google-cloud-dark-theme.git"
+  },
+  "license": "GPL-3.0",
+  "author": "Ramon Vermeulen",
+  "type": "commonjs",
+  "main": "content.js",
+  "scripts": {
+    "lint": "eslint . --report-unused-disable-directives --max-warnings 0",
+    "fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-prettier": "^5.2.3",
+    "eslint-plugin-promise": "^6.6.0",
+    "prettier": "^3.4.2"
+  }
+}
