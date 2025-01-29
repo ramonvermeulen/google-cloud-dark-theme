@@ -7,8 +7,6 @@
 
 <br>
 
-# Google Cloud Dark Theme
-
 ![Example](./assets/img/example.png)
 
 **Unofficial Google Cloud Platform (GCP) Chrome Extension for Dark Mode**
