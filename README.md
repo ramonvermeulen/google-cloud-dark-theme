@@ -1,3 +1,7 @@
+Since google finally put Dark Theme on [**public preview on 23-04-2025**](https://cloud.google.com/release-notes#April_23_2025) (via Settings > Preferences > Appearance) I am archiving this repo as of **21-05-2025** 
+
+<hr>
+
 <div align="center">
     <img alt="logo" data-is-relative="true" src="./assets/img/icon500.png" width="200" height="200"/>
     <h1>google-cloud-dark-theme</h1>
